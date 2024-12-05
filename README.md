@@ -1,4 +1,4 @@
-![Screenshot 2024-12-05 102810](https://github.com/user-attachments/assets/8a4f17ff-9cce-4fdb-a5c0-71cdbaf6d7d1)# Phishing_link_detection
+**Phishing_link_detection**
 Phishing Detection Tool The Phishing Detection Tool is a Python-based solution designed to identify and analyze potenThis lightweight, user-friendly tool leverages various detection techniques to assess the risk of a given URL, providing a quick and reliable way to determine whether a link is safe to access.
 
 ![Screenshot 2024-12-05 102810](https://github.com/user-attachments/assets/91974c88-cbcc-4daf-bea2-939333981430)
