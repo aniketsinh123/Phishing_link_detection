@@ -51,6 +51,11 @@ Usage
 Step2: Clone the repository and run the tool locally:
 
 git clone https://github.com/aniketsinh123/Phishing_link_detection.git
-cd 
-python phishing_detector.py
+cd Phising detection
+python main.py
+
+**Future Enhancements**
+Machine Learning Integration: Train models for advanced phishing detection.
+Dynamic Link Testing: Sandbox links to observe behavior in real-time.
+Web Interface: Develop a browser-based or mobile-friendly interface.
 
