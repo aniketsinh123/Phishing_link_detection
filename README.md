@@ -47,4 +47,10 @@ Optional APIs: Placeholder support for integrating domain reputation services.
 Step1: Add dependencies
 pip install requests
 
+Usage
+Step2: Clone the repository and run the tool locally:
+
+git clone https://github.com/aniketsinh123/Phishing_link_detection.git
+cd 
+python phishing_detector.py
 
