@@ -55,7 +55,7 @@ cd Phising detection
 python main.py
 
 **Future Enhancements**
-Machine Learning Integration: Train models for advanced phishing detection.
-Dynamic Link Testing: Sandbox links to observe behavior in real-time.
-Web Interface: Develop a browser-based or mobile-friendly interface.
+1. Machine Learning Integration: Train models for advanced phishing detection.
+2. Dynamic Link Testing: Sandbox links to observe behavior in real-time.
+3. Web Interface: Develop a browser-based or mobile-friendly interface.
 
