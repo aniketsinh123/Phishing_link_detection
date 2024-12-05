@@ -53,10 +53,9 @@ pip install requests
 Usage
 Step2: Clone the repository and run the tool locally:
 
-git clone https://github.com/aniketsinh123/Phishing_link_detection.git
-cd Phising detection!
-
-python main.py
+1. git clone https://github.com/aniketsinh123/Phishing_link_detection.git
+2. cd Phising detection!
+3. python main.py
 
 **Future Enhancements**
 1. Machine Learning Integration: Train models for advanced phishing detection.
